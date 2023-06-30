@@ -1,0 +1,442 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "3": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 55.0
+        }
+      },
+      "5": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "6": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "7": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      }
+    },
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 51
+  },
+  "Values": {
+    "5,6": "登録ページ",
+    "6,34": "Qty",
+    "7,37": "更新",
+    "7,40": "削除"
+  },
+  "AttachInfos": {
+    "5,6": {
+      "CellType": {
+        "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "OrderSheet_new",
+            "PassValues": [],
+            "IgnoreTargetPageCachedCurrentRowInfo": false,
+            "LoadBindingDataOption": 2
+          }
+        ],
+        "Text": "登録ページ"
+      }
+    },
+    "6,6": {
+      "ListViewInfo": {
+        "ShowColumnHeaderInDesigner": true,
+        "TableName": "Order",
+        "RowIndex": 6,
+        "ColumnIndex": 6,
+        "ColumnCount": 39,
+        "RowCount": 12,
+        "IsRowHeaderVisible": true,
+        "ColumnOperation": 2,
+        "ShowGridLine": true,
+        "ShowEditStatusIcon": true,
+        "Name": "リストビュー1",
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2"
+      }
+    },
+    "7,8": {
+      "BindingInfo": {
+        "TableName": "Order",
+        "ColumnName": "MFG_PART"
+      }
+    },
+    "7,14": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ]
+      },
+      "BindingInfo": {
+        "TableName": "Order",
+        "ColumnName": "EFEM_PART",
+        "RelationBinding": {
+          "RelatedTable": "EFEM_PART",
+          "RelatedColumn": "ID",
+          "DisplayColumn": "MFG_PART"
+        }
+      }
+    },
+    "7,22": {
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon"
+      },
+      "BindingInfo": {
+        "TableName": "Order",
+        "ColumnName": "FGC_LastModifyDate"
+      }
+    },
+    "7,28": {
+      "BindingInfo": {
+        "TableName": "Order",
+        "ColumnName": "PLATFORM"
+      }
+    },
+    "7,34": {
+      "BindingInfo": {
+        "TableName": "Order",
+        "ColumnName": "INVOICE"
+      }
+    },
+    "7,37": {
+      "CellType": {
+        "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "OrderSheet_view",
+            "PassValues": [
+              {
+                "Source": "更新",
+                "TargetCell": {
+                  "SerializeProperty": "=OrderSheet_view!V1"
+                }
+              }
+            ],
+            "IgnoreTargetPageCachedCurrentRowInfo": false,
+            "LoadBindingDataOption": 1
+          }
+        ],
+        "Text": "更新"
+      }
+    },
+    "7,40": {
+      "CellType": {
+        "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.DeleteRecordCommand, ServerDesignerCommon",
+            "CheckDataValidation": false,
+            "ConfirmText": "本当に削除してもよろしいですか？",
+            "UpdateValues": []
+          }
+        ],
+        "Text": "削除"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "Foreground": 0,
+        "Underline": true
+      },
+      {
+        "HorizontalAlignment": 1,
+        "BorderTop": 0,
+        "BorderLeft": 0
+      },
+      {
+        "BorderTop": 0
+      },
+      {
+        "HorizontalAlignment": 1,
+        "BorderTop": 0
+      },
+      {
+        "Background": 3,
+        "Formatter": 4,
+        "HorizontalAlignment": 1,
+        "BorderTop": 0
+      },
+      {
+        "HorizontalAlignment": 1,
+        "BorderTop": 0,
+        "BorderRight": 0
+      },
+      {
+        "HorizontalAlignment": 1,
+        "BorderBottom": 1,
+        "BorderLeft": 0,
+        "BorderRight": 1
+      },
+      {
+        "BorderBottom": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "HorizontalAlignment": 6,
+        "BorderBottom": 1,
+        "BorderLeft": 1
+      },
+      {
+        "BorderBottom": 1
+      },
+      {
+        "BorderBottom": 1,
+        "BorderRight": 1
+      },
+      {
+        "Formatter": 7,
+        "BorderBottom": 1
+      },
+      {
+        "HorizontalAlignment": 1,
+        "BorderBottom": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "Foreground": 0,
+        "HorizontalAlignment": 1,
+        "Underline": true,
+        "BorderBottom": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "HorizontalAlignment": 1
+      },
+      {
+        "HorizontalAlignment": 1,
+        "BorderRight": 0
+      },
+      {
+        "BorderLeft": 0
+      },
+      {
+        "BorderRight": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderLeft": 0
+      },
+      {
+        "BorderBottom": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderRight": 0
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Blue",
+        "Center",
+        "DarkGray",
+        "Accent 1",
+        "0.00",
+        "#D8D8D8",
+        "Left",
+        "@",
+        "Body"
+      ],
+      "Borders": [
+        {
+          "Color": 2
+        },
+        {
+          "Color": 5
+        }
+      ]
+    },
+    "CellStyles": {
+      "5,6": 0,
+      "6,6": 1,
+      "6,7": 2,
+      "6,8": 3,
+      "6,9": 2,
+      "6,10": 2,
+      "6,11": 2,
+      "6,12": 2,
+      "6,13": 2,
+      "6,14": 3,
+      "6,15": 2,
+      "6,16": 2,
+      "6,17": 2,
+      "6,18": 2,
+      "6,19": 2,
+      "6,20": 2,
+      "6,21": 2,
+      "6,22": 3,
+      "6,23": 2,
+      "6,24": 2,
+      "6,25": 2,
+      "6,26": 2,
+      "6,27": 2,
+      "6,28": 3,
+      "6,29": 2,
+      "6,30": 2,
+      "6,31": 2,
+      "6,32": 2,
+      "6,33": 2,
+      "6,34": 4,
+      "6,35": 2,
+      "6,36": 2,
+      "6,37": 3,
+      "6,38": 2,
+      "6,39": 2,
+      "6,40": 3,
+      "6,41": 2,
+      "6,42": 2,
+      "6,43": 3,
+      "6,44": 5,
+      "7,6": 6,
+      "7,7": 7,
+      "7,8": 8,
+      "7,9": 9,
+      "7,10": 9,
+      "7,11": 9,
+      "7,12": 9,
+      "7,13": 10,
+      "7,14": 11,
+      "7,15": 9,
+      "7,16": 9,
+      "7,17": 9,
+      "7,18": 9,
+      "7,19": 9,
+      "7,20": 9,
+      "7,21": 10,
+      "7,22": 9,
+      "7,23": 9,
+      "7,24": 9,
+      "7,25": 9,
+      "7,26": 9,
+      "7,27": 10,
+      "7,28": 9,
+      "7,29": 9,
+      "7,30": 9,
+      "7,31": 9,
+      "7,32": 9,
+      "7,33": 10,
+      "7,34": 12,
+      "7,35": 7,
+      "7,36": 7,
+      "7,37": 13,
+      "7,38": 7,
+      "7,39": 7,
+      "7,40": 13,
+      "7,41": 7,
+      "7,42": 7,
+      "7,43": 14,
+      "7,44": 15,
+      "8,6": 16,
+      "8,44": 17,
+      "9,6": 16,
+      "9,44": 17,
+      "10,6": 16,
+      "10,44": 17,
+      "11,6": 16,
+      "11,44": 17,
+      "12,6": 16,
+      "12,44": 17,
+      "13,6": 16,
+      "13,44": 17,
+      "14,6": 16,
+      "14,44": 17,
+      "15,6": 16,
+      "15,44": 17,
+      "16,6": 16,
+      "16,44": 17,
+      "17,6": 18,
+      "17,7": 19,
+      "17,8": 19,
+      "17,9": 19,
+      "17,10": 19,
+      "17,11": 19,
+      "17,12": 19,
+      "17,13": 19,
+      "17,14": 19,
+      "17,15": 19,
+      "17,16": 19,
+      "17,17": 19,
+      "17,18": 19,
+      "17,19": 19,
+      "17,20": 19,
+      "17,21": 19,
+      "17,22": 19,
+      "17,23": 19,
+      "17,24": 19,
+      "17,25": 19,
+      "17,26": 19,
+      "17,27": 19,
+      "17,28": 19,
+      "17,29": 19,
+      "17,30": 19,
+      "17,31": 19,
+      "17,32": 19,
+      "17,33": 19,
+      "17,34": 19,
+      "17,35": 19,
+      "17,36": 19,
+      "17,37": 19,
+      "17,38": 19,
+      "17,39": 19,
+      "17,40": 19,
+      "17,41": 19,
+      "17,42": 19,
+      "17,43": 19,
+      "17,44": 20
+    },
+    "SheetStyle": {
+      "FontFamily": 8
+    }
+  },
+  "Spans": [
+    "8,6,10,39",
+    "7,6,1,2",
+    "7,34,1,3",
+    "7,37,1,3",
+    "7,40,1,3",
+    "7,8,1,6",
+    "7,28,1,6",
+    "7,14,1,8",
+    "7,22,1,6",
+    "6,6,1,2",
+    "6,8,1,6",
+    "6,14,1,8",
+    "6,22,1,6",
+    "6,28,1,6",
+    "6,34,1,3",
+    "6,37,1,3",
+    "6,40,1,3"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "AuthorizeInfo": {
+      "VisitMode": 2
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
+    "RelatedDataTableName": "Order"
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//PSW6YNJ+iqs1VJQgKHgc70/KypuuT2SVR3dB7OiYusmSJFrPD//PS+zJBH/qW0478zXmXJQXXdztiZM0VPKv8DsStVVmf/iwz+SUBD8nHqyTBLtSUoF1HeEfd0wdJwA9+MqflzABAZs/xmgvZxwCefiPeQhqBm3RCVrEC26X11ii0A/nhLjoLe19XuGWNf3mtIeiELLPBptjPaNH3vHQ66ogF48sPNmK0lTB5enObwDQr8aTu5oCFhjsApZ7jC+d2c8rpJJQB1+cb4iNdkveNysrZkP3fqPPb4mRiqKLCIBkg+X60LnkC9BAM4YSZLRhzFODNv/0lRc7WMbdPLIvOxDxFRUkPuLbpdvkAiAm5J1zRx/2WF3TXFnGvIqnCgxlRu+g/NMkm2xwrPNwscvwpaxa9viTc9A3mHlCZxWo/O3EpA4VgJ5I3aCudiRDowokyeGPkXTA1XG6K2ibG3ICd/JjFtnYqAwEmqN8dXmmKUi777oZGRkDu+Zp+XQXtZ9yhBgMn6bc+2aPZ+hMeBE652Cx75wNiLkTPw03Nd/i5P7RqU3qmP2yxFYE0qSGdfm4JviikX0Ohq0o7si9RG87F9/WolhGIgCeCIMuhwkStrMLbRD4jlHIbl+i7AU6kmMlTfOyNetJKQH4WHr3tObLezfm4HSX+S+POnRP5Z9spcS47uXJ6w9SlOuXPDi5+rN/4mzNTT7aM6R+l2g4BY9Zqpn7AOQZujdVKMQWfWwsQuqh6BHqfpiK3eyTQILQLLqyzAW3RZQJqMY6fKPbg7Gf+vSqyKlH/JGpAJyXW3SMN3iWSz0+0WPTb8lvZ3xhh5I6BtP/n12boerQO9DzjdL8YuUMiiuhM5QKD8lfLfxDEKsYV1YZ43bFxDUNxngDqHyyfmJuu0vTUmrSIjbZhVOvyg==|920

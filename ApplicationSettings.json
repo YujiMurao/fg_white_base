@@ -1,0 +1,17 @@
+{
+  "IntegrateWithOtherApplication": {
+    "Password": "VsIk25F$OR^E"
+  },
+  "IsPageInContainerBackgroundHardCodeWhite": true,
+  "WebSitePort": 46097,
+  "UserServicePort": 26171,
+  "NotAllowModifyDatabaseByJsApi": false,
+  "NotAllowSendMailByJsApi": false,
+  "StartPage": "OrderList",
+  "StartDateFiscalYear": 4,
+  "MaxRowCount": 10000000,
+  "AuditingList": {
+    "Order": 0,
+    "EFEM_PART": 0
+  }
+}
