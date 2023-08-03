@@ -121,7 +121,16 @@
   },
   {
     "ModuleName": "PCPage/OrderSheet_new",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "murao.yuji@rorze.com",
+      "Email": "murao.yuji@rorze.com"
+    },
+    "LockDateTime": "2023-08-04T08:59:07.598336+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\OrderSheet_new.json"
+    ]
   },
   {
     "ModuleName": "PCPage/OrderList",
