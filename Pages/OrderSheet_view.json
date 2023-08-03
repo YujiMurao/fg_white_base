@@ -650,10 +650,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 1
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "CONFIG_MODIFED"
       }
     },
     "15,17": {
@@ -661,10 +657,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 1
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "LED_Light"
       }
     },
     "16,17": {
@@ -672,10 +664,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 1
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Ionizer"
       }
     },
     "17,17": {
@@ -683,10 +671,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 1
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Signal_tower"
       }
     },
     "18,17": {
@@ -694,10 +678,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 1
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Teaching_pendant"
       }
     },
     "20,17": {
@@ -705,10 +685,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 1
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Robot_type_1"
       }
     },
     "21,17": {
@@ -716,10 +692,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 0
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Robot_type_2"
       }
     },
     "22,17": {
@@ -727,10 +699,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 0
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Robot_type_3"
       }
     },
     "23,17": {
@@ -738,10 +706,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 0
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Robot_type_4"
       }
     },
     "25,12": {
@@ -756,10 +720,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 1
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Robot_option_type_1"
       }
     },
     "26,12": {
@@ -774,10 +734,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 0
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Robot_option_type_2"
       }
     },
     "27,12": {
@@ -792,10 +748,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 0
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Robot_option_type_3"
       }
     },
     "28,12": {
@@ -810,10 +762,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 0
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Robot_option_type_4"
       }
     },
     "30,17": {
@@ -821,10 +769,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 1
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Label_type_1"
       }
     },
     "31,17": {
@@ -832,10 +776,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 0
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Label_type_2"
       }
     },
     "32,17": {
@@ -843,10 +783,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 0
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "LL_type_3"
       }
     },
     "33,17": {
@@ -854,10 +790,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 0
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Label_type_4"
       }
     },
     "35,12": {
@@ -872,10 +804,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 1
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "LL_type_1"
       }
     },
     "36,17": {
@@ -883,10 +811,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 0
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "LL_type_2"
       }
     },
     "37,17": {
@@ -894,10 +818,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 0
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "LL_type_3"
       }
     },
     "38,17": {
@@ -905,10 +825,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 0
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "LL_type_4"
       }
     },
     "39,17": {
@@ -916,10 +832,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 0
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "LL_type_5"
       }
     },
     "41,17": {
@@ -927,10 +839,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 1
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "_10slot_Buffer"
       }
     },
     "42,17": {
@@ -938,10 +846,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 0
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "_12slot_Buffer"
       }
     },
     "43,17": {
@@ -949,10 +853,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 0
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "non_Buffer"
       }
     },
     "45,17": {
@@ -960,10 +860,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 3
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Loadport_normal"
       }
     },
     "46,17": {
@@ -971,10 +867,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 0
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Loadport_200mm_SMIF"
       }
     },
     "47,17": {
@@ -982,10 +874,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 0
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Loadport_Glass"
       }
     },
     "49,17": {
@@ -993,10 +881,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 0
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Aligner_normal"
       }
     },
     "50,17": {
@@ -1004,10 +888,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 0
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Aligner_Glass"
       }
     },
     "51,17": {
@@ -1015,10 +895,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 1
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Aligner_non_Aligner"
       }
     },
     "53,17": {
@@ -1026,10 +902,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": 1
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Light_Curtain"
       }
     },
     "55,17": {
@@ -1037,10 +909,6 @@
         "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
         "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
         "CellDefaultValue": "0"
-      },
-      "BindingInfo": {
-        "TableName": "Order",
-        "ColumnName": "Accessory_トリム"
       }
     }
   },
@@ -4450,4 +4318,4 @@
       "Formula": "OrderSheet_view!$G$1"
     }
   ]
-}//gPdUbfvJI7jn7rjg7XlXYhwqo9c7fRGVQtHOMjzZ2rjYQvF3Vw73yA3vNaG/FGutYB1a+tBL+aJqkz/IOjMXwT3l8q9h55CrrRROxhppB83I/7DzeyY43oahcedSKvCcBy3Wop1682r8gk6bfAtZpVF9pGri+0yJ9VI2wgryC7qKaTDhylWdc3GJAbIZArrKv52He+5zrRPaDPv1qT7j0t6eZLskwkff1aPSA9ICaKL4ZlpWWFtK7VU61feqZrJLkW+B7KzQQXmW1xWzkmyxdWGaz/ieIyyUCie4TXXOl3KmyZQ61YNyRenoeU1G7pwffehX+V/RNl7HdDV9JAeqKE8/8mXnTELvO7A0nfUxs/PclL47/NiqD+Ca6m9Y+AXjhsmIwk0aYNXgmbFGZAeIlJLUx1RUxp5zraINIuOQj1re8MOeTi0MpCin4a31/aL3DWASVS49G6ikTMGVoav+HLHg9TVSzzFNS0ORDv9r/Oy5244f3wZuhuAbzJ28TCe6nCXwJvqUuMDKAlqrCyg8w0EK3BfaWhlUdXvKX+0slf8ekGmg0m4xrCzOdSJKBlD9cXdbnPPLGKxu4MJnsIYp6q8RlOtFmwakruGg6TrLNudGpyYyinX+SjKU3DqLp3mv0/jhanL7ethsdkS/jak52e4r9lkRx/e/tsxX0Kmjq9uXbnwzGO0ijBRgfThCgqP5cGTyib+xDR1mbKwVNN7N44dn5+7zW4QberkzDWmBha5uqJP4qr1ampMZUto6ubfbCYsjcQCi6c/Ax/zXEWUoePuynfb2bLiL/lBOCXOXiFPaH2dOUxtIA/ojHv9fMgf/BcqbKkoSeHgg9zQieNzVnGyCce3TsF0WeM2usQa4mPUySsvg2w20Wph1Ky9vF8iJbZA6qRwJmhNLIS0nATqTKg==|920
+}//qU3Xb5M0+q8+g5PvFmR51YeXWep7pKq233T4/hSquKAPabmJlFWslZ4BLFtpNksTvN138oLFACXyxqqtquqND1aw0EOCrQn0GABwMVHdAG0nhvBjPX0qpJD7XpTsKXgI3CRP6z3KG//8XZ4wc7KwdFrPe9AV9fG8MZgSZFMMhXjfOPDmHNfqav34tKTtxJja02BE7UOO1RWik8IeZHg0+u9H96OTkAulgdetSmdWZwzikZRUpmNXwQXfmLHzQxZXBg8gvseY8uv7mAkYlawj9H+7owt+XWTxvU75lTnY6xFLcPTxgs3oJlnviK/RuFx6YdY7wbGOUaZYx83Fy+u/qO6sdrPV8TE4Ps6bRbl7hZE9mdwrmD+vkFnQJU/qNX3AeBG3VZrlpQhbelujhL1oDA5a855SBmYQNbG38x35z5gk563snOAJywWYMSx7fAJwleaEn82kH+0OKSAdwNhnfJwsiC6ntxolDjaIXCOB6tcrbdnUninSXHPjb6Y/NvPFiPiitju4zadw+9ArdcWdORDWy/wEXOJ8mTyN8uUcg6eG5/WNP914RJWWfPjG/bXZ59cZ6rMvWqXJI1xjSzZn9RDYep1zYI/RKrDu+qsclhtdknWDdNEcp5/Xe6BvLnKH98v/mLWrREO2f1ll0svNvKqeKsnRKaLjJNaQ7n4HMSrWiLhK1+D7fKmbAFagB6o7qHbTtMUGXc10f0s/sfg/MK74N+x46HQ0bYknZoDc7spl8nAgPQQvSqOW6vxQjwY+zFWL6jU3/UilaTq8LoF/ARUklJtOLAy0cM3KYLfEEOpb/L4VDMnWj4aBomDupgHHF32J+jqlLLLwfuahhdcGCRQuTsYqu28NPkkEo7u+d/0SEQ7Ph6b7W+XXSCVKnTj/AMtd1P4vLPa/ZD/p0Jp8AA==|920

@@ -1,62 +1,22 @@
 [
   {
     "ModuleName": "Table/Order",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "murao.yuji@rorze.com",
-      "Email": "murao.yuji@rorze.com"
-    },
-    "LockDateTime": "2023-08-03T17:20:15.6659857+09:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\Order.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/EFEM_PART",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "murao.yuji@rorze.com",
-      "Email": "murao.yuji@rorze.com"
-    },
-    "LockDateTime": "2023-08-03T17:20:15.6659857+09:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\EFEM_PART.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/trn_wb_order",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "murao.yuji@rorze.com",
-      "Email": "murao.yuji@rorze.com"
-    },
-    "LockDateTime": "2023-08-03T17:20:15.6659857+09:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\trn_wb_order.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/mst_wb_part",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "murao.yuji@rorze.com",
-      "Email": "murao.yuji@rorze.com"
-    },
-    "LockDateTime": "2023-08-03T17:20:15.6659857+09:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\mst_wb_part.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -157,42 +117,15 @@
   },
   {
     "ModuleName": "PCPage/OrderSheet_view",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "murao.yuji@rorze.com",
-      "Email": "murao.yuji@rorze.com"
-    },
-    "LockDateTime": "2023-08-03T17:23:28.721182+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\OrderSheet_view.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/OrderSheet_new",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "murao.yuji@rorze.com",
-      "Email": "murao.yuji@rorze.com"
-    },
-    "LockDateTime": "2023-08-03T17:23:20.7091036+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\OrderSheet_new.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/OrderList",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "murao.yuji@rorze.com",
-      "Email": "murao.yuji@rorze.com"
-    },
-    "LockDateTime": "2023-08-03T17:15:14.3809115+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\OrderList.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/ガイダンスシート",

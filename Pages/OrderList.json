@@ -1,37 +1,241 @@
 {
   "Rows": {
     "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
       "3": {
         "GridRowColumnDefinition": {
-          "DesignLengthInPixel": 55.0
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "4": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
         }
       },
       "5": {
         "GridRowColumnDefinition": {
-          "DesignLengthInPixel": 30.0
+          "DesignLengthInPixel": 22.0
         }
       },
       "6": {
         "GridRowColumnDefinition": {
-          "DesignLengthInPixel": 30.0
+          "DesignLengthInPixel": 22.0
         }
       },
       "7": {
         "GridRowColumnDefinition": {
-          "DesignLengthInPixel": 30.0
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "8": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "9": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "10": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "11": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "12": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "13": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "14": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "15": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "16": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "17": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "18": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "19": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "20": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "21": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "22": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "23": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "24": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "25": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "26": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "27": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "28": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "29": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "30": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "31": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "32": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "33": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "34": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "35": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "36": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "37": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "38": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "39": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "40": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "41": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "42": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "43": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
+        }
+      },
+      "44": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 22.0
         }
       }
     },
-    "Count": 45
+    "Count": 45,
+    "DefaultSize": 22.0
   },
   "Cols": {
     "Count": 51
   },
   "Values": {
     "5,6": "登録ページ",
-    "6,34": "Qty",
-    "7,37": "更新",
-    "7,40": "削除"
+    "6,34": "Qty"
   },
   "AttachInfos": {
     "5,6": {
@@ -39,10 +243,9 @@
         "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
         "CommandList": [
           {
-            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "$type": "Forguncy.Model.ShowPopupCommand, ServerDesignerCommon",
             "PageName": "OrderSheet_new",
             "PassValues": [],
-            "IgnoreTargetPageCachedCurrentRowInfo": false,
             "LoadBindingDataOption": 2
           }
         ],
@@ -58,6 +261,8 @@
         "ColumnCount": 39,
         "RowCount": 12,
         "IsRowHeaderVisible": true,
+        "AllowEditInListview": true,
+        "ShowDeleteButton": true,
         "ColumnOperation": 2,
         "ShowGridLine": true,
         "ShowEditStatusIcon": true,
@@ -69,7 +274,7 @@
     "7,8": {
       "BindingInfo": {
         "TableName": "Order",
-        "ColumnName": "MFG_PART"
+        "ColumnName": "PO"
       }
     },
     "7,14": {
@@ -97,7 +302,7 @@
       },
       "BindingInfo": {
         "TableName": "Order",
-        "ColumnName": "FGC_LastModifyDate"
+        "ColumnName": "Org_MRP_Date"
       }
     },
     "7,28": {
@@ -109,43 +314,7 @@
     "7,34": {
       "BindingInfo": {
         "TableName": "Order",
-        "ColumnName": "INVOICE"
-      }
-    },
-    "7,37": {
-      "CellType": {
-        "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
-        "CommandList": [
-          {
-            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-            "PageName": "OrderSheet_view",
-            "PassValues": [
-              {
-                "Source": "更新",
-                "TargetCell": {
-                  "SerializeProperty": "=OrderSheet_view!V1"
-                }
-              }
-            ],
-            "IgnoreTargetPageCachedCurrentRowInfo": false,
-            "LoadBindingDataOption": 1
-          }
-        ],
-        "Text": "更新"
-      }
-    },
-    "7,40": {
-      "CellType": {
-        "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
-        "CommandList": [
-          {
-            "$type": "Forguncy.Model.DeleteRecordCommand, ServerDesignerCommon",
-            "CheckDataValidation": false,
-            "ConfirmText": "本当に削除してもよろしいですか？",
-            "UpdateValues": []
-          }
-        ],
-        "Text": "削除"
+        "ColumnName": "Number_of_arrangements"
       }
     }
   },
@@ -208,8 +377,7 @@
       {
         "HorizontalAlignment": 1,
         "BorderBottom": 1,
-        "BorderLeft": 1,
-        "BorderRight": 1
+        "BorderLeft": 1
       },
       {
         "Foreground": 0,
@@ -335,8 +503,8 @@
       "7,32": 9,
       "7,33": 10,
       "7,34": 12,
-      "7,35": 7,
-      "7,36": 7,
+      "7,35": 9,
+      "7,36": 10,
       "7,37": 13,
       "7,38": 7,
       "7,39": 7,
@@ -410,13 +578,13 @@
   "Spans": [
     "8,6,10,39",
     "7,6,1,2",
-    "7,34,1,3",
     "7,37,1,3",
     "7,40,1,3",
-    "7,8,1,6",
     "7,28,1,6",
     "7,14,1,8",
+    "7,8,1,6",
     "7,22,1,6",
+    "7,34,1,3",
     "6,6,1,2",
     "6,8,1,6",
     "6,14,1,8",
@@ -439,4 +607,4 @@
     "Margin": {},
     "PaperSize": {}
   }
-}//PSW6YNJ+iqs1VJQgKHgc70/KypuuT2SVR3dB7OiYusmSJFrPD//PS+zJBH/qW0478zXmXJQXXdztiZM0VPKv8DsStVVmf/iwz+SUBD8nHqyTBLtSUoF1HeEfd0wdJwA9+MqflzABAZs/xmgvZxwCefiPeQhqBm3RCVrEC26X11ii0A/nhLjoLe19XuGWNf3mtIeiELLPBptjPaNH3vHQ66ogF48sPNmK0lTB5enObwDQr8aTu5oCFhjsApZ7jC+d2c8rpJJQB1+cb4iNdkveNysrZkP3fqPPb4mRiqKLCIBkg+X60LnkC9BAM4YSZLRhzFODNv/0lRc7WMbdPLIvOxDxFRUkPuLbpdvkAiAm5J1zRx/2WF3TXFnGvIqnCgxlRu+g/NMkm2xwrPNwscvwpaxa9viTc9A3mHlCZxWo/O3EpA4VgJ5I3aCudiRDowokyeGPkXTA1XG6K2ibG3ICd/JjFtnYqAwEmqN8dXmmKUi777oZGRkDu+Zp+XQXtZ9yhBgMn6bc+2aPZ+hMeBE652Cx75wNiLkTPw03Nd/i5P7RqU3qmP2yxFYE0qSGdfm4JviikX0Ohq0o7si9RG87F9/WolhGIgCeCIMuhwkStrMLbRD4jlHIbl+i7AU6kmMlTfOyNetJKQH4WHr3tObLezfm4HSX+S+POnRP5Z9spcS47uXJ6w9SlOuXPDi5+rN/4mzNTT7aM6R+l2g4BY9Zqpn7AOQZujdVKMQWfWwsQuqh6BHqfpiK3eyTQILQLLqyzAW3RZQJqMY6fKPbg7Gf+vSqyKlH/JGpAJyXW3SMN3iWSz0+0WPTb8lvZ3xhh5I6BtP/n12boerQO9DzjdL8YuUMiiuhM5QKD8lfLfxDEKsYV1YZ43bFxDUNxngDqHyyfmJuu0vTUmrSIjbZhVOvyg==|920
+}//gymVbNzby62DBTcS6MUelpnHQVM3cN/dQcYGbjgJQ4RBOUHkOnPyRmWu9UzPchsqf6KjYmJMGtuz/kDm+kWZPkbCgIYQpfSIzcn5JOUvjk4WBuwcKd0SXQGj7VxWQX61F8UapEAdH9/+8hfElQ84OmYHzOsxdV2fp58nH8nygNJvX+GHc6kucxGU/XaMBI5PMc8fDBBXLk/FzWOLh9JHuuYZIB+iQWaSKheqGtFOwciZCaPlA4iutFMgt6/bWU+qPXD9zdg1/LudWXoiULmtdIRhKC6ILFpMnOm+SuZcQoZObDpHJjD8by7UUT5jPqf7opQqUuVxybv46LDFHT8cO6pJQQN+jW+zfT/4vhjcXU3vX+i4tadig7HwMNQPDpYUBdwEJPgdbaMEAPphbTgTqqjFsRLYNHpfx+TMy4r81fosqt1/TAVf6dKyaZO0ZhaO/osBdJQqbxEXJBOaHpjML2mehg+3PFNfjnrGKZw13LoCQXEaGvUT/woJEgtBy6n8OVmTgn6vYyNijCnPBT8b4vMzGPGcfNAMdis9almX7i+kMtotJEU5uNknpy9eOi0kcdy4JFB+LGCsIC3BU8QLb1122S1SRrNskAD95U7JKbNGHgS+ad4RBWP3l0C2MsT2qPn2YT9yoVHWNg1NwpoGS9AJ9MIRCsanLlmcVazngl16Il97+H1s9O6zsxiZIaH0H+7dzcWPvWp9qgkKvRw8X9euo9tUEhGez9qjyoco8N66qVXos/1q4MkMIQabvwAnoME/kHKDbjkvgHQSusjqXmc5veCcv8gf3eRXMhud92BCMRSN7qc9z4rOQwZZJSYaX2o0pBUCdvlueVYWZO+hQzIkvevz0TosFO+YVIN/qXZYJCse1FsgH6/2vBLstddgVvUxNjySjeDNiBymaL2cYg==|920
