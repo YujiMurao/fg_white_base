@@ -6,7 +6,7 @@
       "UserName": "murao.yuji@rorze.com",
       "Email": "murao.yuji@rorze.com"
     },
-    "LockDateTime": "2023-08-04T11:21:43.6485704+09:00",
+    "LockDateTime": "2023-08-04T11:35:06.945663+09:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\Order.json",
@@ -21,7 +21,7 @@
       "UserName": "murao.yuji@rorze.com",
       "Email": "murao.yuji@rorze.com"
     },
-    "LockDateTime": "2023-08-04T11:21:43.6485704+09:00",
+    "LockDateTime": "2023-08-04T11:35:06.945663+09:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\EFEM_PART.json",
@@ -36,7 +36,7 @@
       "UserName": "murao.yuji@rorze.com",
       "Email": "murao.yuji@rorze.com"
     },
-    "LockDateTime": "2023-08-04T11:21:43.6485704+09:00",
+    "LockDateTime": "2023-08-04T11:35:06.945663+09:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\trn_wb_order.json",
@@ -51,7 +51,7 @@
       "UserName": "murao.yuji@rorze.com",
       "Email": "murao.yuji@rorze.com"
     },
-    "LockDateTime": "2023-08-04T11:21:43.6485704+09:00",
+    "LockDateTime": "2023-08-04T11:35:06.945663+09:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\mst_wb_part.json",
@@ -157,7 +157,16 @@
   },
   {
     "ModuleName": "PCPage/OrderSheet_view",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "murao.yuji@rorze.com",
+      "Email": "murao.yuji@rorze.com"
+    },
+    "LockDateTime": "2023-08-04T11:35:06.9466639+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\OrderSheet_view.json"
+    ]
   },
   {
     "ModuleName": "PCPage/OrderSheet_new",
@@ -166,7 +175,7 @@
       "UserName": "murao.yuji@rorze.com",
       "Email": "murao.yuji@rorze.com"
     },
-    "LockDateTime": "2023-08-04T11:21:59.2040722+09:00",
+    "LockDateTime": "2023-08-04T11:35:06.9466639+09:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\OrderSheet_new.json"
@@ -179,7 +188,7 @@
       "UserName": "murao.yuji@rorze.com",
       "Email": "murao.yuji@rorze.com"
     },
-    "LockDateTime": "2023-08-04T11:27:19.4961042+09:00",
+    "LockDateTime": "2023-08-04T11:35:06.945663+09:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\OrderList.json"
