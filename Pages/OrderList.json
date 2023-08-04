@@ -234,7 +234,7 @@
     "Count": 51
   },
   "Values": {
-    "5,6": "登録ページ",
+    "5,6": "オーダーシート作成",
     "6,34": "Qty"
   },
   "AttachInfos": {
@@ -249,7 +249,7 @@
             "LoadBindingDataOption": 2
           }
         ],
-        "Text": "登録ページ"
+        "Text": "オーダーシート作成"
       }
     },
     "6,6": {
@@ -272,6 +272,10 @@
       }
     },
     "7,8": {
+      "CellType": {
+        "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
+        "ClickMode": 1
+      },
       "BindingInfo": {
         "TableName": "Order",
         "ColumnName": "PO"
@@ -288,12 +292,7 @@
       },
       "BindingInfo": {
         "TableName": "Order",
-        "ColumnName": "EFEM_PART",
-        "RelationBinding": {
-          "RelatedTable": "EFEM_PART",
-          "RelatedColumn": "ID",
-          "DisplayColumn": "MFG_PART"
-        }
+        "ColumnName": "EFEM_PART"
       }
     },
     "7,22": {
@@ -302,19 +301,39 @@
       },
       "BindingInfo": {
         "TableName": "Order",
-        "ColumnName": "Org_MRP_Date"
+        "ColumnName": "EFEM_PART",
+        "RelationBinding": {
+          "RelatedTable": "EFEM_PART",
+          "RelatedColumn": "ID",
+          "DisplayColumn": "MFG_PART"
+        }
+      },
+      "DataValidationInfo": {
+        "IgnoreBlank": false
       }
     },
     "7,28": {
       "BindingInfo": {
         "TableName": "Order",
-        "ColumnName": "PLATFORM"
+        "ColumnName": "SUPPLIER_PROJ"
       }
     },
     "7,34": {
       "BindingInfo": {
         "TableName": "Order",
         "ColumnName": "Number_of_arrangements"
+      }
+    },
+    "7,37": {
+      "BindingInfo": {
+        "TableName": "Order",
+        "ColumnName": "FGC_LastModifier"
+      }
+    },
+    "7,40": {
+      "BindingInfo": {
+        "TableName": "Order",
+        "ColumnName": "FGC_LastModifyDate"
       }
     }
   },
@@ -343,7 +362,6 @@
         "BorderTop": 0
       },
       {
-        "HorizontalAlignment": 1,
         "BorderTop": 0,
         "BorderRight": 0
       },
@@ -359,7 +377,9 @@
         "BorderRight": 1
       },
       {
+        "Foreground": 0,
         "HorizontalAlignment": 6,
+        "Underline": true,
         "BorderBottom": 1,
         "BorderLeft": 1
       },
@@ -384,21 +404,19 @@
         "HorizontalAlignment": 1,
         "Underline": true,
         "BorderBottom": 1,
-        "BorderLeft": 1,
-        "BorderRight": 1
+        "BorderLeft": 1
       },
       {
-        "HorizontalAlignment": 1
-      },
-      {
+        "Foreground": 0,
         "HorizontalAlignment": 1,
+        "Underline": true,
+        "BorderLeft": 1
+      },
+      {
         "BorderRight": 0
       },
       {
         "BorderLeft": 0
-      },
-      {
-        "BorderRight": 0
       },
       {
         "BorderBottom": 0,
@@ -472,7 +490,7 @@
       "6,40": 3,
       "6,41": 2,
       "6,42": 2,
-      "6,43": 3,
+      "6,43": 2,
       "6,44": 5,
       "7,6": 6,
       "7,7": 7,
@@ -506,70 +524,67 @@
       "7,35": 9,
       "7,36": 10,
       "7,37": 13,
-      "7,38": 7,
-      "7,39": 7,
-      "7,40": 13,
-      "7,41": 7,
-      "7,42": 7,
-      "7,43": 14,
+      "7,38": 9,
+      "7,39": 10,
+      "7,40": 14,
       "7,44": 15,
       "8,6": 16,
-      "8,44": 17,
+      "8,44": 15,
       "9,6": 16,
-      "9,44": 17,
+      "9,44": 15,
       "10,6": 16,
-      "10,44": 17,
+      "10,44": 15,
       "11,6": 16,
-      "11,44": 17,
+      "11,44": 15,
       "12,6": 16,
-      "12,44": 17,
+      "12,44": 15,
       "13,6": 16,
-      "13,44": 17,
+      "13,44": 15,
       "14,6": 16,
-      "14,44": 17,
+      "14,44": 15,
       "15,6": 16,
-      "15,44": 17,
+      "15,44": 15,
       "16,6": 16,
-      "16,44": 17,
-      "17,6": 18,
-      "17,7": 19,
-      "17,8": 19,
-      "17,9": 19,
-      "17,10": 19,
-      "17,11": 19,
-      "17,12": 19,
-      "17,13": 19,
-      "17,14": 19,
-      "17,15": 19,
-      "17,16": 19,
-      "17,17": 19,
-      "17,18": 19,
-      "17,19": 19,
-      "17,20": 19,
-      "17,21": 19,
-      "17,22": 19,
-      "17,23": 19,
-      "17,24": 19,
-      "17,25": 19,
-      "17,26": 19,
-      "17,27": 19,
-      "17,28": 19,
-      "17,29": 19,
-      "17,30": 19,
-      "17,31": 19,
-      "17,32": 19,
-      "17,33": 19,
-      "17,34": 19,
-      "17,35": 19,
-      "17,36": 19,
-      "17,37": 19,
-      "17,38": 19,
-      "17,39": 19,
-      "17,40": 19,
-      "17,41": 19,
-      "17,42": 19,
-      "17,43": 19,
-      "17,44": 20
+      "16,44": 15,
+      "17,6": 17,
+      "17,7": 18,
+      "17,8": 18,
+      "17,9": 18,
+      "17,10": 18,
+      "17,11": 18,
+      "17,12": 18,
+      "17,13": 18,
+      "17,14": 18,
+      "17,15": 18,
+      "17,16": 18,
+      "17,17": 18,
+      "17,18": 18,
+      "17,19": 18,
+      "17,20": 18,
+      "17,21": 18,
+      "17,22": 18,
+      "17,23": 18,
+      "17,24": 18,
+      "17,25": 18,
+      "17,26": 18,
+      "17,27": 18,
+      "17,28": 18,
+      "17,29": 18,
+      "17,30": 18,
+      "17,31": 18,
+      "17,32": 18,
+      "17,33": 18,
+      "17,34": 18,
+      "17,35": 18,
+      "17,36": 18,
+      "17,37": 18,
+      "17,38": 18,
+      "17,39": 18,
+      "17,40": 18,
+      "17,41": 18,
+      "17,42": 18,
+      "17,43": 18,
+      "17,44": 19
     },
     "SheetStyle": {
       "FontFamily": 8
@@ -578,21 +593,21 @@
   "Spans": [
     "8,6,10,39",
     "7,6,1,2",
-    "7,37,1,3",
-    "7,40,1,3",
-    "7,28,1,6",
-    "7,14,1,8",
-    "7,8,1,6",
-    "7,22,1,6",
     "7,34,1,3",
     "6,6,1,2",
-    "6,8,1,6",
-    "6,14,1,8",
-    "6,22,1,6",
-    "6,28,1,6",
     "6,34,1,3",
+    "7,40,1,5",
+    "6,40,1,5",
+    "7,37,1,3",
     "6,37,1,3",
-    "6,40,1,3"
+    "7,8,1,6",
+    "6,8,1,6",
+    "7,14,1,8",
+    "6,14,1,8",
+    "7,28,1,6",
+    "6,28,1,6",
+    "7,22,1,6",
+    "6,22,1,6"
   ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
@@ -607,4 +622,4 @@
     "Margin": {},
     "PaperSize": {}
   }
-}//gymVbNzby62DBTcS6MUelpnHQVM3cN/dQcYGbjgJQ4RBOUHkOnPyRmWu9UzPchsqf6KjYmJMGtuz/kDm+kWZPkbCgIYQpfSIzcn5JOUvjk4WBuwcKd0SXQGj7VxWQX61F8UapEAdH9/+8hfElQ84OmYHzOsxdV2fp58nH8nygNJvX+GHc6kucxGU/XaMBI5PMc8fDBBXLk/FzWOLh9JHuuYZIB+iQWaSKheqGtFOwciZCaPlA4iutFMgt6/bWU+qPXD9zdg1/LudWXoiULmtdIRhKC6ILFpMnOm+SuZcQoZObDpHJjD8by7UUT5jPqf7opQqUuVxybv46LDFHT8cO6pJQQN+jW+zfT/4vhjcXU3vX+i4tadig7HwMNQPDpYUBdwEJPgdbaMEAPphbTgTqqjFsRLYNHpfx+TMy4r81fosqt1/TAVf6dKyaZO0ZhaO/osBdJQqbxEXJBOaHpjML2mehg+3PFNfjnrGKZw13LoCQXEaGvUT/woJEgtBy6n8OVmTgn6vYyNijCnPBT8b4vMzGPGcfNAMdis9almX7i+kMtotJEU5uNknpy9eOi0kcdy4JFB+LGCsIC3BU8QLb1122S1SRrNskAD95U7JKbNGHgS+ad4RBWP3l0C2MsT2qPn2YT9yoVHWNg1NwpoGS9AJ9MIRCsanLlmcVazngl16Il97+H1s9O6zsxiZIaH0H+7dzcWPvWp9qgkKvRw8X9euo9tUEhGez9qjyoco8N66qVXos/1q4MkMIQabvwAnoME/kHKDbjkvgHQSusjqXmc5veCcv8gf3eRXMhud92BCMRSN7qc9z4rOQwZZJSYaX2o0pBUCdvlueVYWZO+hQzIkvevz0TosFO+YVIN/qXZYJCse1FsgH6/2vBLstddgVvUxNjySjeDNiBymaL2cYg==|920
+}//1O4xGGXwWkhJYw9BNdAinQpRn/uuDDkLr8CXrF2lapMiUrQ15E3vnLcx6X7hXbPYQJFzW6aLFwaXTqAupn9fWp0vTldLBamEESdS8eLNeLX0+IydxREL4zqvQ4wcbOStwugckSvVmu1oTMQhmRzVdhIuLTpXhA3cK7S8sZQBtC+gN3qIEMvUsd83PBsg6YCanK45SF5T7z8uTu3HhsFf9tg/zqT/8kNo0eunSjDdOkRXIPCZuytYWDzgWRPnYgE2iOvLMek191g11PD26WSHhg2nF0X6qCi3rv7l7zawZFoQNMSzZQl2JGB9kMS9WbZrCIzB2wxJRt70oFQ1/m8kmauAG57cujzWEaJXXyzKEEf7qKYS2LaVFXowPw8Utf+ObWvy7BZ8I+j469eiDCE6u0HfRrpvAhSrFHb6vBnY/coTMctWfoP9KHsozdbF/g5D8qZpGfg3ACXPLPZQvTrwgU9SnkVO+igBbGtTHRcp9iWmqEC3VAl6sczynir1a70vACkCjH/oksRWn12g4J1L/fRnIDeiRtYD05RoHcUKumfR3lvT10vWHRGBxkr0Mxiu/0BpeYYaR8Ize7Wl9L6WtCtCAhm0oCeEQP59O8GvbdzMKn2Z+QWeFtsegtU84KTY+qZ0SynS+FQbq7HT21mZpwzTbn5rGaUnBtau+lYT4TlfaiIFOJTk+6j9+8EgQXr/IWH6RtveFHNMbDrkBt1Fu2bHHqYk3Utwhn+tXlxVX9l/UURi4RMctz3oOl5/xqKuuQ8XDg+X/S5uZvUIutKAFrA+6OGFmCibkyC2KYBDQSSTxIBDV6aB55hOt769WXXOBhfK25kSquLQz6XKxpK9MdXsZGP6ZTVl7GM2FAEhztNYX/SDIhROR013Js3oifVQaR4yGJ02d1HiywFStTKliQ==|920
